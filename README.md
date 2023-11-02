@@ -12,7 +12,6 @@
   <p align="center">
     A Step-By-Step Tutorial for Beginners
     <br />
-    <a href="https://www.freecodecamp.org/news/step-by-step-tutorial-for-building-your-first-full-stack-application-with-nextjs"><strong>Read on FreeCodeCamp »</strong></a>
     <br />
     <br />
     <a href="https://next-fcc-familyguy.vercel.app/">View Demo</a>
